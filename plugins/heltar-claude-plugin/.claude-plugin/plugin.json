@@ -1,0 +1,32 @@
+{
+  "name": "heltar-claude-plugin",
+  "version": "0.1.0",
+  "description": "Claude Code plugin for the Heltar WhatsApp Business API. Bundles 11 skills covering authentication, messaging, templates, campaigns, chatbots, webhooks, contacts, calls, groups, code editor, and scheduling.",
+  "author": {
+    "name": "Heltar",
+    "email": "support@heltar.com",
+    "url": "https://github.com/Heltar"
+  },
+  "homepage": "https://heltar.com/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Heltar/heltar-plugins.git",
+    "directory": "plugins/heltar-claude-plugin"
+  },
+  "bugs": {
+    "url": "https://github.com/Heltar/heltar-plugins/issues"
+  },
+  "license": "Apache-2.0",
+  "keywords": [
+    "Heltar",
+    "WhatsApp",
+    "messaging",
+    "webhooks",
+    "campaigns",
+    "templates",
+    "voice",
+    "chatbot",
+    "ai",
+    "api"
+  ]
+}
