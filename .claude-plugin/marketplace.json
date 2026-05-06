@@ -1,0 +1,41 @@
+{
+  "name": "heltar",
+  "owner": {
+    "name": "Heltar",
+    "email": "support@heltar.com"
+  },
+  "metadata": {
+    "description": "Marketplace for Heltar plugins",
+    "version": "0.1.0",
+    "pluginRoot": "./plugins/"
+  },
+  "plugins": [
+    {
+      "name": "heltar-claude-plugin",
+      "source": "./plugins/heltar-claude-plugin",
+      "description": "Claude Code plugin for the Heltar WhatsApp Business API (messaging, templates, campaigns, webhooks, voice, groups, schedule, code editor).",
+      "version": "0.1.0",
+      "author": {
+        "name": "Heltar",
+        "email": "support@heltar.com",
+        "url": "https://github.com/Heltar"
+      },
+      "homepage": "https://heltar.com/",
+      "license": "Apache-2.0",
+      "keywords": [
+        "Heltar",
+        "WhatsApp",
+        "messaging",
+        "webhooks",
+        "campaigns",
+        "templates",
+        "voice",
+        "chatbot",
+        "ai",
+        "api"
+      ],
+      "category": "communication",
+      "strict": true
+    }
+  ]
+}
